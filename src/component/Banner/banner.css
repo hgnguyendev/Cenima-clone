@@ -1,0 +1,20 @@
+.swiper {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+    z-index: 0;
+}
+.movieSwiper {
+    width: 1230px;
+    /* background-color: rgba(0, 0, 0, 0.8); */
+    backdrop-filter: blur(20px);
+}
+.swiper-slide {
+    background-position: center;
+    background-size: cover;
+    border-radius: 8px;
+    width: 350px;
+    height: 280px;
+    box-shadow: 0px 0 30px rgba(2555, 255, 255, 0.2) ;
+}
